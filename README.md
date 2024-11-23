@@ -43,4 +43,8 @@ Um contador que registra as boas práticas consecutivas realizadas pelo usuário
 ![image](https://github.com/user-attachments/assets/959903e9-aaf0-4008-967d-06d0fc5fb447)
 ![image](https://github.com/user-attachments/assets/0ee609f3-bbf6-408f-8d73-563b9c9d2ea9)
 
+## Link dos videos
 
+https://youtube.com/shorts/w2_81El-JDc?feature=share
+
+https://www.youtube.com/watch?v=0C9crRx9VaM
