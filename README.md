@@ -39,3 +39,4 @@ Um contador que registra as boas práticas consecutivas realizadas pelo usuário
 - **Postman**: Ferramenta usada para testar as APIs do backend.
 - **IntelliJ IDEA**: IDE usada para o desenvolvimento do sistema.
 
+![Exemplo de Tela de Dicas](https://via.placeholder.com/600x400.png?text=Tela+de+Dicas)
