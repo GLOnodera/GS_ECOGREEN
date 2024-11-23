@@ -48,3 +48,8 @@ Um contador que registra as boas práticas consecutivas realizadas pelo usuário
 https://youtube.com/shorts/w2_81El-JDc?feature=share
 
 https://www.youtube.com/watch?v=0C9crRx9VaM
+
+## Rm's
+Gabriel Onodera - RM553779
+Gabriel Plasa - RM553527
+Átila Costa - RM552650
